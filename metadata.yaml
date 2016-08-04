@@ -1,0 +1,34 @@
+_repo: Many-Cargoes_5758
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jacobs, W. W. (William Wymark)
+    alias: Jacobs, William Wymark
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '1865'
+    url: http://www.gutenberg.org/2009/agents/1865
+    wikipedia: http://en.wikipedia.org/wiki/W._W._Jacobs
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcsh 'River life -- Fiction'
+- !lcsh 'Humorous stories, English'
+- GITenberg
+tableOfContents: A change of treatment -- A love passage -- The captain's exploit
+  -- Contraband of war -- A black affair -- The skipper of the "Osprey" -- In borrowed
+  plumes -- The boatswain's watch -- Low water -- In mid-Atlantic -- After the inquest
+  -- In Limehouse Reach -- An elaborate elopement -- The cook of the "Gannet" -- A
+  benefit performance -- A case of desertion -- Outsailed -- Mated -- The rival beauties
+  -- Mrs. Bunker's chaperon -- A harbour of refuge.
+title: Many Cargoes
+url: http://www.gutenberg.org/ebooks/5758
